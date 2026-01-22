@@ -1,2 +1,4 @@
 # project-income
-Creating code for income tracking software
+Creating code for expense tracking software
+
+## It runs smoothly
